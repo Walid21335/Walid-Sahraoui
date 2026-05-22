@@ -1,0 +1,6 @@
+{
+  "name": "سند - بوابة الاختبارات",
+  "description": "بوابة تعليمية متكاملة لإدارة التصاريح الإلكترونية وإنجاز الاختبارات مع دعم كامل لمعادلات LaTeX وتصدير ملفات PDF",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
